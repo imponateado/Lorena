@@ -1,0 +1,29 @@
+/* You can change the style of the elements here */
+input {
+    width: 80%;
+    padding: 10px;
+    border: 2px solid pink;
+    border-radius: 5px;
+}
+button {
+    width: 10%;
+    padding: 10px;
+    background-color: pink;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px;
+}
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.formaDePagamento {
+    font-size: 12%;
+}
